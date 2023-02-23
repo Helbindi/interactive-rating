@@ -1,7 +1,7 @@
 import React from "react";
 import star from "../assets/images/icon-star.svg";
 
-function Form({ rating, setRating, setSubmitted, scores }) {
+function RatingForm({ rating, setRating, setSubmitted, scores }) {
   function handleClick(e) {
     e.preventDefault;
     const newValue = e.target.innerHTML;
@@ -42,4 +42,4 @@ function Form({ rating, setRating, setSubmitted, scores }) {
   );
 }
 
-export default Form;
+export default RatingForm;

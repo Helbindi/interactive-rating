@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Card from "./components/Card";
-import Form from "./components/Form";
+import RatingForm from "./components/RatingForm";
 import Confirmation from "./components/Confirmation";
 import "./index.css";
 
@@ -13,7 +13,7 @@ function App() {
     <div className="rating-container">
       {!submitted && (
         <Card>
-          <Form
+          <RatingForm
             rating={rating}
             setRating={setRating}
             setSubmitted={setSubmitted}
