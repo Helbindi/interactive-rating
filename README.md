@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://raw.githubusercontent.com/Helbindi/interactive-rating/main/solution.png]()
+- Solution URL: [https://github.com/Helbindi/interactive-rating]()
 - Live Site URL: [https://helbindi-interactive-rating.vercel.app/]()
 
 ## My process
