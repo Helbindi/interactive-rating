@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Helbindi/interactive-rating]()
-- Live Site URL: [https://helbindi-interactive-rating.vercel.app/]()
+- Solution URL: [https://github.com/Helbindi/interactive-rating](https://github.com/Helbindi/interactive-rating)
+- Live Site URL: [https://helbindi-interactive-rating.vercel.app/](https://helbindi-interactive-rating.vercel.app/)
 
 ## My process
 
